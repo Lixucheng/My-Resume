@@ -3,7 +3,7 @@
 
 ----
 
-## 自带后端的前端狗  
+
 [pdf版](https://lixucheng.github.io/My-Resume/简历.pdf)   
 
 大连理工大学软件学院大三在读  
